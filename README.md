@@ -69,7 +69,7 @@ This is a modernized web-based version of the classic *Hand Cricket* game, where
 We'd love to improve **DigitCricket** based on your feedback! 🚀  
 If you have any suggestions, feature requests, or find any bugs, feel free to comment below or open an issue in the repository.
 
-📩 You can also reach out via [LinkedIn](https://www.linkedin.com/in/aman-ingale-058b80301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [GitHub Issues](your-https://github.com/Aman-Ingale/Digit-Cricket.git/issues).
+📩 You can also reach out via [LinkedIn](https://www.linkedin.com/in/aman-ingale-058b80301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [GitHub Issues](https://github.com/Aman-Ingale/Digit-Cricket/issues).
 
 ---
 
